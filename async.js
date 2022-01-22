@@ -1,4 +1,4 @@
-// Asynchonours nature- Blocking in JS
+// Asynchonours nature- NON-Blocking in JS
 const fsa = require('fs');
 const fs = require('fs/promises');
 
