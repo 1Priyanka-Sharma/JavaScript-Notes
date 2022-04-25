@@ -2,7 +2,7 @@
 let a = [1, 3, 4, 2, 8, 33];
 
 let a1 = [...a];
-console.log(a1);
+console.log(a1);        //[1, 3, 4, 2, 8, 33]
 
 function avg(v1, v2) {
     return (v1 + v2) / 2;

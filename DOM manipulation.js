@@ -19,6 +19,7 @@ eleclass[0].appendChild(createdele);            //append Element
 createdele2=document.createElement('p');        //Create element
 createdele2.innerText='Created Para';
 eleclass[0].replaceChild(createdele2,createdele);       //Repalce child
+replaceChild(newChild, oldChild);
 
 eleclass[0].removeChild(createdele2);           //remove Child
 
